@@ -1,4 +1,4 @@
-# Basic AI Agent with Gemini + Python - #MakeItPublic Part 2
+# Basic AI Agent with Gemini + Python + SQL - #MakeItPublic Part 2
 
 **Disclaimer: This project was built as a hands-on learning exercise. The code and structure evolved through experimentation, debugging, and conversations with ChatGPT.**
 
